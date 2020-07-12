@@ -21,8 +21,8 @@ header{
 
 .logo{
 	float:left;
-	margin-top:10px;
 	width:180%;
+	top:0;
 }
 
 nav{
