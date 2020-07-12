@@ -1,0 +1,79 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: Klee;
+	color: navy;
+	background: #f3f3f3;
+}
+
+h1{
+	text-align:center;
+	float:center;
+	font-size: 50px;
+}
+
+.container{
+	max-width:960px;
+	width:96%;
+	margin: auto;
+}
+
+header{
+	background:white;
+	margin_bottom:20px;
+	overflow:hidden;
+}
+
+.logo{
+	float:left;
+	margin-top:10px;
+	width:180%;
+}
+
+nav{
+	float: right;
+	line-height:60px;
+	top: 0;
+}
+
+nav li{
+	display:inline-block;
+	margin-left: 50px;
+	padding:10px 20px;
+	background:#f3f3f3;
+	border-radius:50px;
+	line-height:normal;
+}
+
+img{
+	border-radius:50px;
+	padding: 20px;
+	width: 180px;
+}
+
+.Universities{
+	float:center;
+}
+
+.regform{
+	width:800px;
+	background:white;
+	margin:auto;
+	background-color: #ffffff;
+}
+
+form{
+	padding:10px;
+}
+
+input {
+  padding: 10px;
+  margin:20px;
+  width: 90%;
+  font-size: 17px;
+  border: 1px solid #aaaaaa;
+}
+
+input.invalid {
+  background-color: #ffdddd;
+}
