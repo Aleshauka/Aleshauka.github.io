@@ -22,7 +22,6 @@ header{
 .logo{
 	float:left;
 	width:180%;
-	top:0;
 }
 
 nav{
@@ -42,7 +41,7 @@ nav li{
 
 h1{
 	text-align:center;
-	float:right;
+	float:center;
 	font-size: 50px;
 }
 
