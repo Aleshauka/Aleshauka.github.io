@@ -27,7 +27,6 @@ header{
 nav{
 	float: right;
 	line-height:60px;
-	top: 0;
 }
 
 nav li{
@@ -41,7 +40,6 @@ nav li{
 
 h1{
 	text-align:center;
-	float:center;
 	font-size: 50px;
 }
 
