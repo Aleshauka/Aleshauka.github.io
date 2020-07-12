@@ -20,13 +20,13 @@ header{
 
 
 .logo{
-	float:left;
+	float:center;
 	margin-top: 10px;
 	border-radius:0px;
 }
 
 nav{
-	float: right;
+	float: center;
 	line-height:70px;
 }
 
