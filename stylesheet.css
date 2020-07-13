@@ -46,8 +46,11 @@ h1{
 
 img{
 	border-radius:50px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 20px;
-	width: 300px;
+	width: 50%;
 }
 
 .Universities{
