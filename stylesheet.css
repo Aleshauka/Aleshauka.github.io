@@ -21,8 +21,7 @@ header{
 
 .logo{
 	float:center;
-	margin-top: 10px;
-	border-radius:0px;
+	top:0;
 }
 
 nav{
