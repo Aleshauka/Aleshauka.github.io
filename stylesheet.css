@@ -20,17 +20,16 @@ header{
 
 
 .logo{
-	float:center;
+	float:left;
 	top:0;
 }
 
 nav{
-	float: center;
-	line-height:70px;
+	float: right;
+	top:0;
 }
 
 nav li{
-	display:inline-block;
 	margin-left: 0px;
 	padding:5px 5px;
 	background:#f3f3f3;
