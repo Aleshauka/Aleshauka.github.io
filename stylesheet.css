@@ -27,8 +27,7 @@ header{
 
 nav{
 	float: right;
-	top:0;
-	width:40%;
+	line-height:70px;
 }
 
 nav li{
@@ -76,4 +75,10 @@ input {
 
 input.invalid {
   background-color: #ffdddd;
+}
+
+h2{
+	text-align:center;
+	float: center;
+	font-size:50px;
 }
