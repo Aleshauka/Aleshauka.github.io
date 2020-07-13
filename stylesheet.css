@@ -21,7 +21,7 @@ header{
 
 .logo{
 	float:left;
-	margin-top:10px;
+	margin-top:50px;
 }
 
 nav{
@@ -80,33 +80,4 @@ h2{
 	text-align:center;
 	float: center;
 	font-size:50px;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  float: none;
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-/* Add a grey background color to dropdown links on hover */
-.dropdown-content a:hover {
-  background-color: #ddd;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown-content {
-  display: block;
 }
