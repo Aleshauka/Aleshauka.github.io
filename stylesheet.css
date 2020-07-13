@@ -30,6 +30,7 @@ nav{
 }
 
 nav li{
+	float: right;
 	margin-left: 0px;
 	padding:5px 5px;
 	background:#f3f3f3;
